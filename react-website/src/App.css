@@ -1,5 +1,9 @@
 .masthead {
   background-color: #00bb73;
+  background-image: url(https://images.pexels.com/photos/207130/pexels-photo-207130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-repeat: no-repeat;
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -8,4 +12,21 @@
   text-align: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.masthead p {
+  font-size: 20px;
+}
+
+.profile {
+  border-radius: 100%;
+  border: 1px solid #000;
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+h1 {
+  font-size: 100px !important;
 }

@@ -5,7 +5,7 @@ This was just a fun little project I wanted to do after learning a bit of React.
 ## TO-DO
 
 - Finish the site...
-  ** Finish Masthead
+  ** ~~Finish Masthead~~
   ** Finish the portfolio section
   ** Finish the info section
   ** Get my contacts there
